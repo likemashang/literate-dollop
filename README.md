@@ -1,3 +1,3 @@
 # literate-dollop
-> 😎 Dollop for Literate
+> ⛱️ Dollop for Literate
 
